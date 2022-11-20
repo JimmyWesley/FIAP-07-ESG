@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "api de validação de CPF",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
+ 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JimmyWesley/FIAP-07-ESG.git"

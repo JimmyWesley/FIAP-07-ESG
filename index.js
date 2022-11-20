@@ -12,7 +12,8 @@ app.get('/', function (req, res) {
     }
 });
 
-app.listen(8000);
+app.listen(process.env.PORT);
+//app.listen(8000);
 
 function Valida_CPF(strCPF) {
     var Soma;
