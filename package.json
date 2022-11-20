@@ -1,0 +1,22 @@
+{
+  "name": "api-valida-cpf",
+  "version": "1.0.0",
+  "description": "api de validação de CPF",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyWesley/FIAP-07-ESG.git"
+  },
+  "author": "Stacks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmyWesley/FIAP-07-ESG/issues"
+  },
+  "homepage": "https://github.com/JimmyWesley/FIAP-07-ESG#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
